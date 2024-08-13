@@ -1,0 +1,10 @@
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe.config
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.pdb
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.AssemblyReference.cache
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Form1.resources
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Properties.Resources.resources
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.GenerateResource.cache
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.exe
+C:\Users\Semanur Gökırmak\Desktop\C#deneme\Doviz_Ofisi\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.pdb
